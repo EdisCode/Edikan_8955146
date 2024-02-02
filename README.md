@@ -1,2 +1,5 @@
-# Edikan_8955146
-SENG8041 Labs/Assignments
+Name: Edikan Ekanem
+
+Project Title: Lab 3
+
+Student ID: 8955146
